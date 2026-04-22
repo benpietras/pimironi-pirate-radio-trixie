@@ -15,7 +15,7 @@ Note: Updated for Trixie (Debian 13) / kernel 6.x.
 Press Ctrl+C to exit!
 """)
 
-# The buttons on Pirate Audio are connected to pins 5, 6, 16 and 24
+# The buttons on Pirate Radio are connected to pins 5, 6, 16 and 24
 # Boards prior to 23 January 2020 used 5, 6, 16 and 20
 # Try changing 24 to 20 if your Y button doesn't work.
 BUTTON_PINS = [5, 6, 16, 20]

@@ -23,7 +23,7 @@ SPI_SPEED_MHZ = 90
 image = Image.new("RGB", (240, 240), (255, 0, 255))
 draw = ImageDraw.Draw(image)
 
-# Standard display setup for Pirate Audio, backlight managed manually
+# Standard display setup for Pirate Radio, backlight managed manually
 st7789 = ST7789(
     rotation=90,
     port=0,

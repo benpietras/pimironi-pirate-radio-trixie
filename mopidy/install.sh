@@ -148,7 +148,7 @@ else
     echo
 fi
 
-inform "Installing Pirate Audio plugins..."
+inform "Installing Pirate Radio plugins..."
 $PIP_BIN install --upgrade Mopidy-PiDi Mopidy-Local pidi-display-pil pidi-display-st7789 mopidy-raspberry-gpio
 echo
 

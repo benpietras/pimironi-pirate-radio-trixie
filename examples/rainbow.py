@@ -5,7 +5,7 @@ from colorsys import hsv_to_rgb
 from PIL import Image, ImageDraw
 from st7789 import ST7789
 
-print("""rainbow.py - Display a rainbow on the Pirate Audio LCD
+print("""rainbow.py - Display a rainbow on the Pirate Radio LCD
 
 This example demonstrates how to:
 1. set up the Pirate Audio LCD,

@@ -5,7 +5,7 @@ import dbus
 from gpiozero import Button
 
 """
-shairport-sync-control.py - Control Shairport Sync via DBus and Pirate Audio buttons.
+shairport-sync-control.py - Control Shairport Sync via DBus and Pirate Radio buttons.
 
 Play/Pause, Next and volume control are supported.
 
